@@ -5,6 +5,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -24,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="414.93517"
-     inkscape:cy="599.05777"
+     inkscape:cx="104.62885"
+     inkscape:cy="638.40182"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="986"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0" />
   <metadata
@@ -43,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -177,5 +178,58 @@
        d="m 140.04923,213.28108 -2.89777,7.76367 4.75272,6.78846 -8.27914,-0.35684 -4.98754,6.61786 -2.21902,-7.98421 -7.83519,-2.69839 6.90772,-4.57767 0.14512,-8.28556 6.48822,5.15505 z"
        inkscape:transform-center-x="0.7183312"
        inkscape:transform-center-y="0.48760065" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path26"
+       sodipodi:cx="55.057522"
+       sodipodi:cy="222.36826"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="29.520884"
+       sodipodi:argument="-18.115395"
+       sodipodi:t0="0"
+       d="m 55.057522,222.36826 c 1.098838,0.99163 -0.794576,1.97045 -1.648163,1.82634 -2.313166,-0.39053 -2.831067,-3.3012 -2.00452,-5.12267 1.4785,-3.25819 5.721451,-3.84859 8.597171,-2.1827 4.220235,2.44477 4.89424,8.17381 2.360877,12.07168 -3.376576,5.19524 -10.637463,5.95175 -15.546178,2.53905 -6.177119,-4.29453 -7.015375,-13.10648 -2.717234,-19.02068 5.205624,-7.16289 15.578509,-8.08253 22.495185,-2.89541 8.151064,6.11284 9.151906,18.05242 3.073591,25.96969 -7.017654,9.1408 -20.527584,10.22276 -29.444193,3.25177 -10.131618,-7.92089 -11.29465,-23.00363 -3.429948,-32.9187 8.823007,-11.12321 25.480318,-12.36729 36.393201,-3.60813 12.115369,9.72434 13.440495,27.95749 3.786305,39.86771" />
+    <path
+       style="fill:#ff00ff;stroke-width:2.02031"
+       d="m 249.99838,876.70019 -12.38344,-10.93446 2.70847,-7.58999 c 3.70625,-10.38608 3.46579,-16.21843 -1.08169,-26.23607 -7.61071,-16.76564 -28.1542,-22.24925 -40.85138,-10.90432 -8.34684,7.4579 -9.13461,18.8437 -1.71922,24.84832 2.6277,2.12778 5.99151,3.37435 7.47513,2.77016 1.48363,-0.6042 3.83392,-1.54829 5.22288,-2.09798 1.38896,-0.54969 7.52563,3.52351 13.63706,9.05157 l 11.11168,10.05102 -6.48687,6.00154 c -15.32531,14.17872 -39.11916,12.61445 -55.4246,-3.64375 -11.08485,-11.05273 -14.79514,-22.01053 -13.25599,-39.14955 1.95643,-21.7855 16.63386,-38.59347 39.50834,-45.24327 29.97435,-8.71378 63.10848,9.08285 74.15065,39.82696 4.62639,12.88101 4.15286,34.81298 -1.05199,48.7242 -6.326,16.90775 -7.30366,17.11298 -21.55903,4.52562 z"
+       id="path30"
+       transform="scale(0.26458333)" />
+    <use
+       id="use182"
+       inkscape:spray-origin="#path30"
+       xlink:href="#path30"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(55.607927,-44.055454)" />
+    <use
+       id="use184"
+       inkscape:spray-origin="#path30"
+       xlink:href="#path30"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(110.22187,-74.211757)" />
+    <use
+       id="use186"
+       inkscape:spray-origin="#path30"
+       xlink:href="#path30"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(81.268335,57.926532)" />
+    <use
+       id="use188"
+       inkscape:spray-origin="#path30"
+       xlink:href="#path30"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%"
+       transform="translate(114.21414,-23.258205)" />
   </g>
 </svg>
